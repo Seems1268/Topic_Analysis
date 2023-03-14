@@ -1,0 +1,25 @@
+Checking 1234 to Savings 2345 - interal_transfer_money
+Savings  1234 to Savings 3456 - interal_transfer_money
+Checking 2345 to Checking 3456 - interal_transfer_money
+Savings 2345 to Checking 3456 - interal_transfer_money
+Move money from Checking 1234 to Savings 2345 - interal_transfer_money
+wire from checking 1234 to Savings 2345 - interal_transfer_money
+wire from Savings  1234 to Savings 3456 - interal_transfer_money
+wire from Checking 2345 to Checking 3456 - interal_transfer_money
+wire Savings 2345 to Checking 3456 - interal_transfer_money
+Zelle $2345 - Zelle transfer
+Zelle money - Zelle transfer
+wire from checking 1234 to BOA 2345 - Zelle transfer
+wire to external - Zelle transfer
+new card Visa ending 1234 - lost_card
+new card Master ending 3456 - lost_card
+fraud card - lost_card
+late card - lost_card
+cancel stop payment - stop_payment
+start stop payment - stop_payment
+ATM nearby - ATM_location
+withdraw money nearby - ATM_location
+turn on card 1234 - activate_Card
+activate card 2345 - activate_Card
+Checking 1234 to Credit Card 3456 - bill_pay
+Savings to Credit Card 2345- bill_pay
